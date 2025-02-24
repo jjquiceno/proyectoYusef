@@ -1,6 +1,5 @@
 # proyectoYusef
 
-1. Diseño
-2. Funcion JS Create Element funcionando correctamente
-3. Funcionalidad completa (Entrega)
-hola
+1. Las tarjetas deben ser rojas
+2. Las tarjetas deben enviar a YouTube, Instagram Y WhastApp
+3. Debe haber menu desplegable
